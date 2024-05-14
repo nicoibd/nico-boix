@@ -1,0 +1,2 @@
+nombre = nicolas
+  print (hola + nombre)
